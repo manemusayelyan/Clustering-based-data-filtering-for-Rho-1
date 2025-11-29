@@ -6,4 +6,4 @@ Inspired by:
 
 **1.&nbsp; [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](https://arxiv.org/abs/2405.15613)**
 
-**2.&nbsp; [Rho-1:Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)**
+**2.&nbsp; [Rho-1:&nbsp; Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)**
