@@ -1,0 +1,18 @@
+{
+    "num_samples": 5000,
+    "num_scores": 5000,
+    "timeout_samples": 55,
+    "empty_samples": 292,
+    "acc": 2.1,
+    "type_acc": {
+        "Algebra": 2.6,
+        "Counting & Probability": 2.3,
+        "Geometry": 1.7,
+        "Intermediate Algebra": 1.9,
+        "Number Theory": 1.1,
+        "Prealgebra": 3.0,
+        "Precalculus": 1.3
+    },
+    "time_use_in_second": 2224.9921164512634,
+    "time_use_in_minite": "37:04"
+}
