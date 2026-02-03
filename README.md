@@ -13,8 +13,8 @@ Training TinyLlama-1B on the same set as Rho-1 but with a new type of filtering 
 The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was evaluated on the exact set of benchmark tasks used by the Rho-1 authors. The comparison results are shown in the table below.
 ## Few-shot CoT reasoning results 
 
-| Evaluation             | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
-|------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
+| Evaluation               | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
+|--------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-1.1B &nbsp;(Rho-1 paper)   | 2.9 | 11.0 | 18.1 | 20.4 | 12.5 | 14.6 | 16.1 | 21.9 | 3.2 |
 | TinyLlama-1.1B &nbsp;(My evaluation) | 2.7 | 10.9 | 17.9 | 20.5 | 12.5 | 13.9 | 16.4 | 21.9 | 2.2 |
                                                                                                     
