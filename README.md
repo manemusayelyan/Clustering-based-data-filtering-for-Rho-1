@@ -6,7 +6,7 @@ Training TinyLlama-1B on the same set as Rho-1 but with a new type of filtering 
 1. [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](https://arxiv.org/abs/2405.15613)
 2. [Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)
                                                                                   
-&nbsp;&nbsp
+&nbsp;
 
 ## Benchmark Comparison
 
