@@ -17,7 +17,6 @@ The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was eva
 | TinyLlama-1.1B (Rho-1 paper) | 2.9 | 11.0 | 18.1 | 20.4 | 12.5 | 14.6 | 16.1 | 21.9 | 3.2 |
 | TinyLlama-1.1B (My eval) | 2.9 | 10.7 | 17.8 | 20.2 | 12.3 | 14.2 | 16.2 | 21.9 | 2.1 |
                                                                                                     
----
                                                                                                   
 ## Continual Pretraining (CPT) Results
 
