@@ -27,5 +27,6 @@ Performed continual pretraining (CPT) of TinyLlama-1.1B on the OpenWebMath datas
 |------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-CT (Rho-1 paper) | 6.4 | 21.7 | 36.7 | 47.7 | 17.9 | 13.9 | 23.0 | 25.0 | 2.4 |
 | TinyLlama-CT (My eval) | — | — | — | — | — | — | — | — | — |
+
 &nbsp;
 > **Note:** The RHO-1 CPT model was not publicly released, comparisons are based on reported metrics.
