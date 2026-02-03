@@ -11,8 +11,6 @@ Training TinyLlama-1B on the same set as Rho-1 but with a new type of filtering 
 ## Benchmark Comparison
 
 The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was evaluated on the exact set of benchmark tasks used by the Rho-1 authors. The comparison results are shown in the table below.
-&nbsp;
-
 
 | Evaluation             | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
 |------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
@@ -24,14 +22,10 @@ The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was eva
 ## Continual Pretraining (CPT) Results
 
 Performed continual pretraining (CPT) of TinyLlama-1.1B on the OpenWebMath dataset following the RHO-1 study. The table below compares our CPT results with the results reported by the RHO-1 authors.
-&nbsp;
-
 
 | Evaluation | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
 |------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-CT (Rho-1 paper) | 6.4 | 21.7 | 36.7 | 47.7 | 17.9 | 13.9 | 23.0 | 25.0 | 2.4 |
 | TinyLlama-CT (My eval) | — | — | — | — | — | — | — | — | — |
-
 &nbsp;
-
 > **Note:** The RHO-1 CPT model was not publicly released, comparisons are based on reported metrics.
