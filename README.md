@@ -5,9 +5,9 @@ Training TinyLlama-1B on the same set as Rho-1 but with a new type of filtering 
 ### Inspired by:
 1. [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](https://arxiv.org/abs/2405.15613)
 2. [Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)
-
+                                                                                  
 ---
-
+                                                                                                                                                  
 ## Benchmark Comparison
 
 The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was evaluated on the exact set of benchmark tasks used by the Rho-1 authors. The comparison results are shown in the table below.
@@ -16,9 +16,9 @@ The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was eva
 |------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-1.1B (Rho-1 paper) | 2.9 | 11.0 | 18.1 | 20.4 | 12.5 | 14.6 | 16.1 | 21.9 | 3.2 |
 | TinyLlama-1.1B (My eval) | 2.9 | 10.7 | 17.8 | 20.2 | 12.3 | 14.2 | 16.2 | 21.9 | 2.1 |
-
+                                                                                                    
 ---
-
+                                                                                                  
 ## Continual Pretraining (CPT) Results
 
 Performed continual pretraining (CPT) of TinyLlama-1.1B on the OpenWebMath dataset following the RHO-1 study. The table below compares our CPT results with the results reported by the RHO-1 authors.
