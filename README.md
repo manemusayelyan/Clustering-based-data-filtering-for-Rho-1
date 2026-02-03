@@ -31,7 +31,9 @@ Performed continual pretraining (CPT) of TinyLlama-1.1B on the `OpenWebMath` dat
 | TinyLlama-1.1B CT (My evaluation) | — | — | — | — | — | — | — | — | — |
 
 &nbsp;
+
 > **Note:** The TinyLlama-CT model was not publicly released, comparisons are based on reported metrics.
+
 &nbsp;
 
 ## Hierarchical Clustering on Open Web Math Dataset Embeddings
