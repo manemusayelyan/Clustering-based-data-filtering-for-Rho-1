@@ -6,8 +6,8 @@ Training TinyLlama-1B on the same set as Rho-1 but with a new type of filtering 
 1. [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](https://arxiv.org/abs/2405.15613)
 2. [Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965)
                                                                                   
----
-                                                                                                                                                  
+&nbsp;&nbsp
+
 ## Benchmark Comparison
 
 The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was evaluated on the exact set of benchmark tasks used by the Rho-1 authors. The comparison results are shown in the table below.
