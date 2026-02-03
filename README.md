@@ -31,4 +31,4 @@ Performed continual pretraining (CPT) of TinyLlama-1.1B on the `OpenWebMath` dat
 | TinyLlama-CT (My evaluation) | — | — | — | — | — | — | — | — | — |
 
 &nbsp;
-> **Note:** The RHO-1 CPT model was not publicly released, comparisons are based on reported metrics.
+> **Note:** The TinyLlama-CT model was not publicly released, comparisons are based on reported metrics.
