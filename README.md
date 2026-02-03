@@ -16,7 +16,7 @@ The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was eva
 | Evaluation                   | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
 |------------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-1.1B (Rho-1 paper) | 2.9 | 11.0 | 18.1 | 20.4 | 12.5 | 14.6 | 16.1 | 21.9 | 3.2 |
-| TinyLlama-1.1B (My evaluation) | 2.7 | 10.9 | 17.9 | 20.5 | 12.5 | 13.9 | 16.4 | 21.9 | 2.2 |
+| TinyLlama-1.1B  (My evaluation) | 2.7 | 10.9 | 17.9 | 20.5 | 12.5 | 13.9 | 16.4 | 21.9 | 2.2 |
                                                                                                     
 &nbsp;
                                                                                                  
@@ -28,7 +28,7 @@ Performed continual pretraining (CPT) of TinyLlama-1.1B on the `OpenWebMath` dat
 | Evaluation                 | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
 |----------------------------|-------|-------|-------|-------|-----|-----|-----------|------|------|
 | TinyLlama-1.1B CT (Rho-1 paper) | 6.4 | 21.7 | 36.7 | 47.7 | 17.9 | 13.9 | 23.0 | 25.0 | 2.4 |
-| TinyLlama-1.1B CT (My eval)     | — | — | — | — | — | — | — | — | — |
+| TinyLlama-1.1B CT (My evaluation) | — | — | — | — | — | — | — | — | — |
 
 &nbsp;
 > **Note:** The TinyLlama-CT model was not publicly released, comparisons are based on reported metrics.
