@@ -22,7 +22,7 @@ The baseline model `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` was eva
                                                                                                  
 ## Continual Pretraining (CPT) Results
 
-Performed continual pretraining (CPT) of TinyLlama-1.1B on the OpenWebMath dataset following the RHO-1 study. The table below compares our CPT results with the results reported by the RHO-1 authors.
+Performed continual pretraining (CPT) of TinyLlama-1.1B on the `OpenWebMath` dataset following the RHO-1 study. The table below compares our CPT results with the results reported by the RHO-1 authors.
 ## Few-shot CoT reasoning results 
 
 | Evaluation | GSM8K | SVAMP | ASDiv | MAWPS | TAB | MQA | MMLU STEM | SAT‡ | MATH |
